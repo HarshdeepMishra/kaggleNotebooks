@@ -119,10 +119,6 @@ kaggleNotebooks/
 │   ├── clustering/
 │   └── README.md
 │
-├── 📂 deep-learning/         # Neural networks & DL projects
-│   ├── computer-vision/
-│   ├── nlp-models/
-│   └── README.md
 │
 ├── 📂 feature-engineering/   # Feature creation experiments
 │   ├── feature-selection/
@@ -140,7 +136,6 @@ kaggleNotebooks/
 │
 ├── environment.yml           # Conda environment specification
 ├── requirements.txt          # Python dependencies
-├── LICENSE                   # MIT License
 └── README.md                 # This file
 
 ```
@@ -164,18 +159,6 @@ kaggleNotebooks/
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-009639?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-228B22?style=flat-square)
-![CatBoost](https://img.shields.io/badge/CatBoost-ED3484?style=flat-square)
-
-### **Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-### **NLP & Computer Vision**
-![NLTK](https://img.shields.io/badge/NLTK-48B7D4?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFC900?style=flat-square)
 
 ---
 
@@ -218,42 +201,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
-
-## 📈 Key Projects
-
-### 1. **Titanic Survival Prediction** 🚢
-- **Type:** Classification
-- **Skills:** Feature engineering, EDA, cross-validation
-- **Best Model:** XGBoost (Accuracy: XX%)
-- **[View Notebook](#)**
-
-### 2. **House Price Prediction** 🏠
-- **Type:** Regression
-- **Skills:** Handling missing values, feature scaling, ensemble methods
-- **Best Model:** LightGBM (RMSE: XX)
-- **[View Notebook](#)**
-
-### 3. **Customer Segmentation** 👥
-- **Type:** Clustering
-- **Skills:** K-means, dimensionality reduction, visualization
-- **Methods:** K-means, DBSCAN, Hierarchical Clustering
-- **[View Notebook](#)**
-
-### 4. **Sentiment Analysis** 💬
-- **Type:** NLP
-- **Skills:** Text preprocessing, embeddings, neural networks
-- **Dataset:** Twitter/Reviews dataset
-- **[View Notebook](#)**
-
-### 5. **Time Series Forecasting** 📊
-- **Type:** Forecasting
-- **Skills:** ARIMA, Prophet, LSTM
-- **Metrics:** MAPE, MAE, RMSE
-- **[View Notebook](#)**
-
----
-
 ## 📚 My Learning Path
 
 ```
@@ -263,49 +210,13 @@ Beginner
   └── Decision Trees & Random Forests
          ↓
 Intermediate
-  ├── Advanced Feature Engineering
-  ├── XGBoost & Gradient Boosting
-  ├── Cross-validation & Hyperparameter Tuning
-  └── Time Series Analysis
-         ↓
-Advanced
-  ├── Deep Learning (CNN, RNN, LSTM)
-  ├── NLP & Transformer Models
-  ├── Reinforcement Learning
-  └── Model Deployment & MLOps
+  ├── Advanced Feature Engineering (Learning)
+
 ```
 
 ---
 
-## 💡 Best Practices
 
-### Code Standards
-- 📝 **Documentation:** Docstrings for all functions
-- 🎨 **Style:** PEP 8 compliance
-- 🧪 **Testing:** Unit tests for utilities
-- 🔄 **Version Control:** Meaningful commit messages
-
-### Notebook Organization
-- 📌 Clear markdown headers and sections
-- 🔗 Table of contents for navigation
-- 💾 Data loading path at the top
-- 📊 Visualizations with interpretations
-- ✅ Reproducibility: Set random seeds
-
-### Model Development
-```python
-# Template structure for all notebooks:
-1. Libraries & Setup
-2. Load Data
-3. EDA & Visualization
-4. Data Preprocessing
-5. Feature Engineering
-6. Model Training
-7. Evaluation & Results
-8. Insights & Conclusion
-```
-
----
 
 ## 📞 Contact & Connect
 
@@ -313,20 +224,12 @@ Advanced
 
 | Platform | Link |
 |----------|------|
-| **LinkedIn** | [Your Name](https://linkedin.com) |
-| **Twitter** | [@YourHandle](https://twitter.com) |
-| **Email** | your.email@example.com |
-| **Kaggle** | [Your Profile](https://kaggle.com/yourprofile) |
+| **LinkedIn** | [Harshdeep Mishra](https://www.linkedin.com/in/harshdeepmishra/) |
+| **Email** | mishraharshdeep743@gmail.com |
+| **Kaggle** | [Harshdeep Mishra](https://www.kaggle.com/harshdeepmishra231) |
 
 </div>
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
+--
 
 ## ⭐ If you found this helpful
 
@@ -341,7 +244,7 @@ If this repository helped you, please consider:
 
 **Last Updated:** March 2, 2026
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Harshdeep Mishra]
 
 [⬆ Back to Top](#-kaggle-notebooks--data-science-portfolio)
 
