@@ -2,14 +2,13 @@
 
 # 🚀 Kaggle Notebooks & Data Science Portfolio
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/HarshdeepMishra)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harshdeepmishra231)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **A comprehensive collection of data science projects, machine learning models, and exploratory data analysis (EDA) from Kaggle competitions and personal research.**
 
-[🔍 Explore Projects](#-quick-navigation) • [📊 Notebooks](#-featured-notebooks) • [🛠️ Tools](#-tools--technologies) • [📚 Learning Path](#-my-learning-path)
+[📊 Notebooks](#-featured-notebooks) • [🛠️ Tools](#-tools--technologies) • [📚 Learning Path](#-my-learning-path)
 
 </div>
 
@@ -37,66 +36,7 @@ This repository serves as a central hub for my data science journey, featuring:
 | 📁 [Repository Structure](#-repository-structure) | Folder organization & file guide |
 | 🛠️ [Tools & Technologies](#-tools--technologies) | Libraries and frameworks used |
 | 🚀 [Getting Started](#-getting-started) | How to run notebooks locally |
-| 📈 [Key Projects](#-key-projects) | Detailed project descriptions |
 | 📚 [Learning Path](#-my-learning-path) | My data science progression |
-| 💡 [Best Practices](#-best-practices) | Code standards & methodologies |
-
----
-
-## 📊 Featured Notebooks
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏆 Top Competition
-*Add your best Kaggle competition here*
-
-- Dataset: [Link to dataset](#)
-- Task: Classification/Regression/NLP
-- Best Score: XX%
-- Key Techniques: XGBoost, Feature Engineering
-
-</td>
-<td align="center" width="50%">
-
-### 🔬 EDA Masterclass
-*Your exploratory data analysis project*
-
-- Visualizations: 20+
-- Insights: 15+
-- Libraries: Matplotlib, Seaborn, Plotly
-- Focus: Pattern Recognition
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💾 Data Pipeline
-*End-to-end data processing*
-
-- Input: Raw Data
-- Output: ML-Ready Dataset
-- Performance: 10x faster
-- Methods: Pandas, Polars
-
-</td>
-<td align="center" width="50%">
-
-### 🤖 Deep Learning
-*Neural network experiments*
-
-- Framework: TensorFlow/PyTorch
-- Architecture: CNN/RNN/Transformer
-- Accuracy: XX%
-- Dataset: [Link](#)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📁 Repository Structure
 
@@ -119,7 +59,6 @@ kaggleNotebooks/
 │   ├── clustering/
 │   └── README.md
 │
-│
 ├── 📂 feature-engineering/   # Feature creation experiments
 │   ├── feature-selection/
 │   ├── feature-extraction/
@@ -140,7 +79,6 @@ kaggleNotebooks/
 
 ```
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -159,8 +97,6 @@ kaggleNotebooks/
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-009639?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-228B22?style=flat-square)
-
----
 
 ## 🚀 Getting Started
 
@@ -213,11 +149,6 @@ Intermediate
   ├── Advanced Feature Engineering (Learning)
 
 ```
-
----
-
-
-
 ## 📞 Contact & Connect
 
 <div align="center">
@@ -237,8 +168,6 @@ If this repository helped you, please consider:
 - ⭐ Starring this repository
 - 🔗 Sharing with others interested in data science
 - 💬 Providing feedback and suggestions
-
----
 
 <div align="center">
 
