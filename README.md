@@ -42,23 +42,23 @@ This repository serves as a central hub for my data science journey, featuring:
 ```
 kaggleNotebooks/
 │
-├── 📂 competitions/          # Kaggle competition solutions
+├── 📂 Competitions/          # Kaggle competition solutions
 │   ├── titanic/
 │   ├── house-prices/
 │   └── README.md            # Competition guide
 │
-├── 📂 eda-explorations/      # Exploratory Data Analysis projects
+├── 📂 EDA-explorations/      # Exploratory Data Analysis projects
 │   ├── covid-analysis/
 │   ├── sales-insights/
 │   └── README.md
 │
-├── 📂 machine-learning/      # ML model implementations
+├── 📂 Machine-Learning/      # ML model implementations
 │   ├── classification/
 │   ├── regression/
 │   ├── clustering/
 │   └── README.md
 │
-├── 📂 feature-engineering/   # Feature creation experiments
+├── 📂 Feature-Engineering/   # Feature creation experiments
 │   ├── feature-selection/
 │   ├── feature-extraction/
 │   └── README.md
@@ -69,7 +69,7 @@ kaggleNotebooks/
 │   ├── modeling.py
 │   └── __init__.py
 │
-├── 📂 datasets/              # Sample datasets (if included)
+├── 📂 Datasets/              # Sample datasets (if included)
 │   └── README.md
 │
 ├── environment.yml           # Conda environment specification
