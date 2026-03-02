@@ -32,7 +32,6 @@ This repository serves as a central hub for my data science journey, featuring:
 
 | Section | Description |
 |---------|-------------|
-| 📊 [Featured Notebooks](#-featured-notebooks) | Top data science & ML projects |
 | 📁 [Repository Structure](#-repository-structure) | Folder organization & file guide |
 | 🛠️ [Tools & Technologies](#-tools--technologies) | Libraries and frameworks used |
 | 🚀 [Getting Started](#-getting-started) | How to run notebooks locally |
@@ -160,7 +159,6 @@ Intermediate
 | **Kaggle** | [Harshdeep Mishra](https://www.kaggle.com/harshdeepmishra231) |
 
 </div>
---
 
 ## ⭐ If you found this helpful
 
