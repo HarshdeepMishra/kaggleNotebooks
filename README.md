@@ -58,7 +58,7 @@ kaggleNotebooks/
 │   ├── clustering/
 │   └── README.md
 │
-├── 📂 Feature-E    ngineering/   # Feature creation experiments
+├── 📂 Feature-Engineering/   # Feature creation experiments
 │   ├── feature-selection/
 │   ├── feature-extraction/
 │   └── README.md
